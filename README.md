@@ -10,4 +10,4 @@ Un blog increíble para el curso de Git y Github de Platzi.
 - Buenas practicas de trabajo en Git
 - Algunos trucos
 
-Como recordatorio hay que acalarar que este **Readme.md es un ejercicio de clase** para ver mi avance como programador puedes dirigirte a mi LinkedIn** [LinkedIn/RicardoMS](http://https://www.linkedin.com/in/ricardo-moreno-segura-a2393567/ "LinkedIn/RicardoMS")** 👽
+Como recordatorio hay que acalarar que este **Readme.md es un ejercicio de clase** para ver mi avance como programador puedes dirigirte a mi LinkedIn [**LinkedIn/RicardoMS**](http://https://www.linkedin.com/in/ricardo-moreno-segura-a2393567/ "LinkedIn/RicardoMS") 👽
