@@ -1,4 +1,4 @@
-# hyperblog
+# hyperblog 2.0
 Un blog increíble para el curso de Git y Github de Platzi.
 
 *Con este curso he aprendido el manejo básico de Git y Git hub y la utilidad de este tipo de herramientas para mi futuro como programador y desarrollador*
